@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Problem with wheelchair"
+title: "[MEDICAL] Grandfather has problem with legs falling out of wheelchair"
 author: "Mary Jane"
 date: 2021-9-24 15:59:59 -0700
 categories: jekyll update
