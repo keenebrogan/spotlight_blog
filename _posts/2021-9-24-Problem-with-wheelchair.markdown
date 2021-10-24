@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Problem with wheelchair"
 author: "Mary Jane"
 date: 2021-9-24 15:59:59 -0700

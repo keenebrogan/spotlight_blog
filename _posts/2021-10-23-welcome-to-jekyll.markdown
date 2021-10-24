@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll!"
 author: "John Doe"
 date:   2021-10-23 18:54:02 -0400
